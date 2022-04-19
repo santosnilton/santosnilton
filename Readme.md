@@ -11,14 +11,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-niltontadeusantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/niltontadeusantos/)](https://www.linkedin.com/in/niltonsantos/)
 
-## Languages and Tools:
+<!--## Languages and Tools:
 https://aws.amazon.com/pt/
 <br>
 https://www.python.org/
 <br>
 https://www.javascript.com/
 <br>
-https://git-scm.com/
+https://git-scm.com/ -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=santosnilton&count_private=true&show_icons=true&include_all_commits=true)
 <br>
