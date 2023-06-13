@@ -9,7 +9,7 @@
 <br>
 :mortar_board:  Bachelor of Economics
 
-[![Linkedin Badge](https://img.shields.io/badge/-niltontadeusantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/niltontadeusantos/)](https://www.linkedin.com/in/niltonsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-niltontadeusantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/niltontadeusantos/)](https://www.linkedin.com/in/niltontadeusantos/)
 
 <!--## Languages and Tools:
 https://aws.amazon.com/pt/
