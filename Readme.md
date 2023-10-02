@@ -3,11 +3,12 @@
 
 :mailbox:   nilton.ntcs@gmail.com
 <br>
+:mortar_board:  Bachelor of Economics
+<br>
 :mortar_board:  MBA Data Engineering
 <br>
 :mortar_board:  Post Graduate in Database and Business Intelligence
-<br>
-:mortar_board:  Bachelor of Economics
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-niltontadeusantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/niltontadeusantos/)](https://www.linkedin.com/in/niltontadeusantos/)
 
